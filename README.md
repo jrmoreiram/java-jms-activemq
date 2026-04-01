@@ -2,7 +2,7 @@
 
 ## 📋 Sobre o Projeto
 
-Este projeto é uma aplicação Java completa que demonstra o uso avançado de **JMS (Java Message Service)** com **Apache ActiveMQ**, implementando um sistema de mensageria empresarial para gerenciamento de pedidos. O projeto foi desenvolvido com base no curso **"JMS e ActiveMQ: mensageria com Java"** da **DevMedia**, explorando conceitos fundamentais e avançados de mensageria, incluindo filas, tópicos, assinaturas duráveis, tratamento de erros e padrões de integração.
+Este projeto é uma aplicação Java completa que demonstra o uso avançado de **JMS (Java Message Service)** com **Apache ActiveMQ**, implementando um sistema de mensageria empresarial para gerenciamento de pedidos. O projeto foi desenvolvido com base no curso **"JMS e ActiveMQ: mensageria com Java"** da **Alura**, explorando conceitos fundamentais e avançados de mensageria, incluindo filas, tópicos, assinaturas duráveis, tratamento de erros e padrões de integração.
 
 ## 🎯 Objetivo
 
@@ -700,7 +700,7 @@ Causa: Propriedade não definida no produtor
 ## 📚 Referências
 
 ### Curso Base
-**"JMS e ActiveMQ: mensageria com Java"** - DevMedia
+**"JMS e ActiveMQ: mensageria com Java"** - Alura
 
 ### Tópicos do Curso:
 - ✅ Introdução ao Mensageria com ActiveMQ
@@ -740,7 +740,7 @@ Este é um projeto educacional desenvolvido para fins de aprendizado.
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido durante o curso de JMS e ActiveMQ da DevMedia.
+Projeto desenvolvido durante o curso de JMS e ActiveMQ da Alura.
 
 ## 🔗 Links Úteis
 
